@@ -1,4 +1,4 @@
-class Dog(name) 
+class Dog(dog_name) 
  
  def initialize(dog_name)
    @name = name
